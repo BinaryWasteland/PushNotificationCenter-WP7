@@ -1,0 +1,14 @@
+c:\users\binarywasteland\documents\visual studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\binarywasteland\documents\visual studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\Push_Notification_Center.Properties.Resources.resources
+c:\users\binarywasteland\documents\visual studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\binarywasteland\documents\visual studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\binarywasteland\documents\visual studio 2010\Projects\Push Notification Center\Push Notification Center\bin\Debug\Push Notification Center.exe
+c:\users\binarywasteland\documents\visual studio 2010\Projects\Push Notification Center\Push Notification Center\bin\Debug\Push Notification Center.pdb
+c:\users\binarywasteland\documents\visual studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\Push Notification Center.exe
+c:\users\binarywasteland\documents\visual studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\Push Notification Center.pdb
+c:\users\binarywasteland\documents\visual studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\Push_Notification_Center.PushCenter.resources
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\Push Notification Center\Push Notification Center\bin\Debug\Push Notification Center.exe.manifest
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\Push Notification Center\Push Notification Center\bin\Debug\Push Notification Center.application
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\Push Notification Center.TrustInfo.xml
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\Push Notification Center.exe.manifest
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\Push Notification Center\Push Notification Center\obj\x86\Debug\Push Notification Center.application
